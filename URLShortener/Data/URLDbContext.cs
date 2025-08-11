@@ -1,0 +1,28 @@
+﻿using Microsoft.EntityFrameworkCore;
+using URLShortener.Models;
+using URLShortener.Constants;
+
+namespace URLShortener.Data
+{
+	public class URLDbContext : DbContext
+	{
+		public URLDbContext(DbContextOptions<URLDbContext> options)
+		   : base(options)
+		{
+		}
+
+        public DbSet<URL> URLs { get; set; }
+
+        // Optionally override OnModelCreating if you want to configure models via Fluent API
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+		{
+			base.OnModelCreating(modelBuilder);
+
+			// Example configuration
+			modelBuilder.Entity<URL>()
+				.Property(t => t.SourceURL)
+				.IsRequired()
+				.HasMaxLength(MaxLengths.SourceURL);
+		}
+	}
+}
