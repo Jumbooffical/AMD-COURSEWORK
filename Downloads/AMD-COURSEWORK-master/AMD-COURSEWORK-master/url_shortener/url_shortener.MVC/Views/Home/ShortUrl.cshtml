@@ -1,0 +1,34 @@
+﻿@{
+    ViewData["Title"] = "Short URL";
+    var shortUrl = ViewData["ShortUrl"] as string;
+    var originalUrl = ViewData["OriginalUrl"] as string;
+}
+
+<div class="container mt-5">
+    <h1 class="display-4 text-center mb-4">Your Shortened URL</h1>
+
+    @if (!string.IsNullOrEmpty(shortUrl))
+    {
+        <div class="alert alert-success text-center">
+            <p>Original URL:</p>
+            <p><a href="@originalUrl" target="_blank">@originalUrl</a></p>
+
+            <hr />
+
+            <p>Shortened URL:</p>
+            <h3>
+                <a href="@shortUrl" target="_blank">@shortUrl</a>
+            </h3>
+        </div>
+    }
+    else
+    {
+        <div class="alert alert-warning text-center">
+            No shortened URL found.
+        </div>
+    }
+
+    <div class="text-center mt-4">
+        <a asp-controller="Home" asp-action="Index" class="btn btn-primary">Shorten another URL</a>
+    </div>
+</div>

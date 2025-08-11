@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\AMD-COURSEWORK-master\\AMD-COURSEWORK-master\\url_shortener\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58B34211-E265-47AC-813C-E1DDD713490B}|url_shortener.MVC\\url_shortener.MVC.csproj|c:\\users\\admin\\downloads\\amd-coursework-master\\amd-coursework-master\\url_shortener\\url_shortener.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58B34211-E265-47AC-813C-E1DDD713490B}|url_shortener.MVC\\url_shortener.MVC.csproj|solutionrelative:url_shortener.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58B34211-E265-47AC-813C-E1DDD713490B}|url_shortener.MVC\\url_shortener.MVC.csproj|c:\\users\\admin\\downloads\\amd-coursework-master\\amd-coursework-master\\url_shortener\\url_shortener.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58B34211-E265-47AC-813C-E1DDD713490B}|url_shortener.MVC\\url_shortener.MVC.csproj|solutionrelative:url_shortener.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58B34211-E265-47AC-813C-E1DDD713490B}|url_shortener.MVC\\url_shortener.MVC.csproj|c:\\users\\admin\\downloads\\amd-coursework-master\\amd-coursework-master\\url_shortener\\url_shortener.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58B34211-E265-47AC-813C-E1DDD713490B}|url_shortener.MVC\\url_shortener.MVC.csproj|solutionrelative:url_shortener.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58B34211-E265-47AC-813C-E1DDD713490B}|url_shortener.MVC\\url_shortener.MVC.csproj|c:\\users\\admin\\downloads\\amd-coursework-master\\amd-coursework-master\\url_shortener\\url_shortener.mvc\\views\\home\\shorturl.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58B34211-E265-47AC-813C-E1DDD713490B}|url_shortener.MVC\\url_shortener.MVC.csproj|solutionrelative:url_shortener.mvc\\views\\home\\shorturl.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58B34211-E265-47AC-813C-E1DDD713490B}|url_shortener.MVC\\url_shortener.MVC.csproj|c:\\users\\admin\\downloads\\amd-coursework-master\\amd-coursework-master\\url_shortener\\url_shortener.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{58B34211-E265-47AC-813C-E1DDD713490B}|url_shortener.MVC\\url_shortener.MVC.csproj|solutionrelative:url_shortener.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58B34211-E265-47AC-813C-E1DDD713490B}|url_shortener.MVC\\url_shortener.MVC.csproj|c:\\users\\admin\\downloads\\amd-coursework-master\\amd-coursework-master\\url_shortener\\url_shortener.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{58B34211-E265-47AC-813C-E1DDD713490B}|url_shortener.MVC\\url_shortener.MVC.csproj|solutionrelative:url_shortener.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\AMD-COURSEWORK-master\\AMD-COURSEWORK-master\\url_shortener\\url_shortener.MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "url_shortener.MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\AMD-COURSEWORK-master\\AMD-COURSEWORK-master\\url_shortener\\url_shortener.MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "url_shortener.MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T12:03:38.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShortUrl.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\AMD-COURSEWORK-master\\AMD-COURSEWORK-master\\url_shortener\\url_shortener.MVC\\Views\\Home\\ShortUrl.cshtml",
+              "RelativeDocumentMoniker": "url_shortener.MVC\\Views\\Home\\ShortUrl.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\AMD-COURSEWORK-master\\AMD-COURSEWORK-master\\url_shortener\\url_shortener.MVC\\Views\\Home\\ShortUrl.cshtml",
+              "RelativeToolTip": "url_shortener.MVC\\Views\\Home\\ShortUrl.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-10T11:41:40.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\AMD-COURSEWORK-master\\AMD-COURSEWORK-master\\url_shortener\\url_shortener.MVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "url_shortener.MVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\AMD-COURSEWORK-master\\AMD-COURSEWORK-master\\url_shortener\\url_shortener.MVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "url_shortener.MVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-10T02:22:08.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\AMD-COURSEWORK-master\\AMD-COURSEWORK-master\\url_shortener\\url_shortener.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "url_shortener.MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\AMD-COURSEWORK-master\\AMD-COURSEWORK-master\\url_shortener\\url_shortener.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "url_shortener.MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-10T02:19:33.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\AMD-COURSEWORK-master\\AMD-COURSEWORK-master\\url_shortener\\url_shortener.MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "url_shortener.MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\AMD-COURSEWORK-master\\AMD-COURSEWORK-master\\url_shortener\\url_shortener.MVC\\appsettings.json",
+              "RelativeToolTip": "url_shortener.MVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-10T02:15:15.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\AMD-COURSEWORK-master\\AMD-COURSEWORK-master\\url_shortener\\url_shortener.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "url_shortener.MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\AMD-COURSEWORK-master\\AMD-COURSEWORK-master\\url_shortener\\url_shortener.MVC\\Program.cs",
+              "RelativeToolTip": "url_shortener.MVC\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T02:15:02.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
