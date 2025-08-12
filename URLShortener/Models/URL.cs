@@ -1,18 +1,20 @@
 ﻿using System.ComponentModel.DataAnnotations;
-using Microsoft.AspNetCore.Mvc;
-using URLShortener.Constants;
 
 namespace URLShortener.Models
 {
-    public class URL
-    {
-        public Guid Id { get; set; }
+	public class URL
+	{
+		public URL()
+		{
+			Id = Guid.NewGuid();
+		}
 
-        [MaxLength(MaxLengths.SourceURL, ErrorMessage = "Source URL cannot exceed {1} characters")]
-        public string SourceURL { get; set; } = string.Empty;
-        [Required(ErrorMessage = "Please enter source URL")]
+		public Guid Id { get; set; }
 
-        [MaxLength(MaxLengths.DestinationURL)]
-        public string DestinationURL { get; set; } = string.Empty;
-    }
+		[Url(ErrorMessage = "Not an URL")]
+		[MaxLength(Constants.MaxLengths.OriginalURL, ErrorMessage = "URL cannot exceed 2048 characters")]
+		public string OriginalUrl { get; set; } = string.Empty;
+
+		public string ShortCode { get; set; } = string.Empty;
+	}
 }

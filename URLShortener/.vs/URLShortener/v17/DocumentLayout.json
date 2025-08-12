@@ -3,40 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\test\\Desktop\\URLShortener\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\test\\Desktop\\URLShortener\\Migrations\\20250812153651_migration2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250812153651_migration2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2ACAFF76-999C-4B74-AE6C-1CE5390C8E60}|URLShortener.csproj|c:\\users\\test\\desktop\\urlshortener\\controllers\\urlscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2ACAFF76-999C-4B74-AE6C-1CE5390C8E60}|URLShortener.csproj|solutionrelative:controllers\\urlscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2ACAFF76-999C-4B74-AE6C-1CE5390C8E60}|URLShortener.csproj|c:\\users\\test\\desktop\\urlshortener\\views\\urls\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2ACAFF76-999C-4B74-AE6C-1CE5390C8E60}|URLShortener.csproj|solutionrelative:views\\urls\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2ACAFF76-999C-4B74-AE6C-1CE5390C8E60}|URLShortener.csproj|c:\\users\\test\\desktop\\urlshortener\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2ACAFF76-999C-4B74-AE6C-1CE5390C8E60}|URLShortener.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2ACAFF76-999C-4B74-AE6C-1CE5390C8E60}|URLShortener.csproj|c:\\users\\test\\desktop\\urlshortener\\views\\urls\\shorten.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2ACAFF76-999C-4B74-AE6C-1CE5390C8E60}|URLShortener.csproj|solutionrelative:views\\urls\\shorten.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2ACAFF76-999C-4B74-AE6C-1CE5390C8E60}|URLShortener.csproj|c:\\users\\test\\desktop\\urlshortener\\data\\urldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2ACAFF76-999C-4B74-AE6C-1CE5390C8E60}|URLShortener.csproj|solutionrelative:data\\urldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2ACAFF76-999C-4B74-AE6C-1CE5390C8E60}|URLShortener.csproj|c:\\users\\test\\desktop\\urlshortener\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2ACAFF76-999C-4B74-AE6C-1CE5390C8E60}|URLShortener.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2ACAFF76-999C-4B74-AE6C-1CE5390C8E60}|URLShortener.csproj|c:\\users\\test\\desktop\\urlshortener\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2ACAFF76-999C-4B74-AE6C-1CE5390C8E60}|URLShortener.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2ACAFF76-999C-4B74-AE6C-1CE5390C8E60}|URLShortener.csproj|c:\\users\\test\\desktop\\urlshortener\\models\\url.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2ACAFF76-999C-4B74-AE6C-1CE5390C8E60}|URLShortener.csproj|solutionrelative:models\\url.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2ACAFF76-999C-4B74-AE6C-1CE5390C8E60}|URLShortener.csproj|c:\\users\\test\\desktop\\urlshortener\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2ACAFF76-999C-4B74-AE6C-1CE5390C8E60}|URLShortener.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2ACAFF76-999C-4B74-AE6C-1CE5390C8E60}|URLShortener.csproj|c:\\users\\test\\desktop\\urlshortener\\views\\urls\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2ACAFF76-999C-4B74-AE6C-1CE5390C8E60}|URLShortener.csproj|solutionrelative:views\\urls\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2ACAFF76-999C-4B74-AE6C-1CE5390C8E60}|URLShortener.csproj|c:\\users\\test\\desktop\\urlshortener\\migrations\\20250811081429_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2ACAFF76-999C-4B74-AE6C-1CE5390C8E60}|URLShortener.csproj|solutionrelative:migrations\\20250811081429_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2ACAFF76-999C-4B74-AE6C-1CE5390C8E60}|URLShortener.csproj|c:\\users\\test\\desktop\\urlshortener\\constants\\maxlengths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ACAFF76-999C-4B74-AE6C-1CE5390C8E60}|URLShortener.csproj|solutionrelative:constants\\maxlengths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ACAFF76-999C-4B74-AE6C-1CE5390C8E60}|URLShortener.csproj|c:\\users\\test\\desktop\\urlshortener\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2ACAFF76-999C-4B74-AE6C-1CE5390C8E60}|URLShortener.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ACAFF76-999C-4B74-AE6C-1CE5390C8E60}|URLShortener.csproj|c:\\users\\test\\desktop\\urlshortener\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2ACAFF76-999C-4B74-AE6C-1CE5390C8E60}|URLShortener.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ACAFF76-999C-4B74-AE6C-1CE5390C8E60}|URLShortener.csproj|c:\\users\\test\\desktop\\urlshortener\\views\\urls\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2ACAFF76-999C-4B74-AE6C-1CE5390C8E60}|URLShortener.csproj|solutionrelative:views\\urls\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ACAFF76-999C-4B74-AE6C-1CE5390C8E60}|URLShortener.csproj|c:\\users\\test\\desktop\\urlshortener\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ACAFF76-999C-4B74-AE6C-1CE5390C8E60}|URLShortener.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -59,6 +67,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250812153651_migration2.cs",
+              "DocumentMoniker": "C:\\Users\\test\\Desktop\\URLShortener\\Migrations\\20250812153651_migration2.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250812153651_migration2.cs",
+              "ToolTip": "C:\\Users\\test\\Desktop\\URLShortener\\Migrations\\20250812153651_migration2.cs",
+              "RelativeToolTip": "Migrations\\20250812153651_migration2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T15:36:51.972Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -74,41 +95,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\test\\Desktop\\URLShortener\\Views\\URLs\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\URLs\\Index.cshtml",
-              "ToolTip": "C:\\Users\\test\\Desktop\\URLShortener\\Views\\URLs\\Index.cshtml",
-              "RelativeToolTip": "Views\\URLs\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Shorten.cshtml",
+              "DocumentMoniker": "C:\\Users\\test\\Desktop\\URLShortener\\Views\\URLs\\Shorten.cshtml",
+              "RelativeDocumentMoniker": "Views\\URLs\\Shorten.cshtml",
+              "ToolTip": "C:\\Users\\test\\Desktop\\URLShortener\\Views\\URLs\\Shorten.cshtml",
+              "RelativeToolTip": "Views\\URLs\\Shorten.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-11T08:23:43.207Z",
+              "WhenOpened": "2025-08-12T10:51:30.853Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "URLsController.cs",
               "DocumentMoniker": "C:\\Users\\test\\Desktop\\URLShortener\\Controllers\\URLsController.cs",
               "RelativeDocumentMoniker": "Controllers\\URLsController.cs",
               "ToolTip": "C:\\Users\\test\\Desktop\\URLShortener\\Controllers\\URLsController.cs",
               "RelativeToolTip": "Controllers\\URLsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAwwDAAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-11T08:19:58.942Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\test\\Desktop\\URLShortener\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\test\\Desktop\\URLShortener\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T08:06:10.659Z",
               "EditorCaption": ""
             },
             {
@@ -119,7 +127,7 @@
               "RelativeDocumentMoniker": "Data\\URLDbContext.cs",
               "ToolTip": "C:\\Users\\test\\Desktop\\URLShortener\\Data\\URLDbContext.cs",
               "RelativeToolTip": "Data\\URLDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-11T08:07:58.261Z",
               "EditorCaption": ""
@@ -127,66 +135,92 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\test\\Desktop\\URLShortener\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\test\\Desktop\\URLShortener\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T08:19:20.034Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\test\\Desktop\\URLShortener\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\test\\Desktop\\URLShortener\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-11T08:15:03.502Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "20250811081429_initial migration.cs",
-              "DocumentMoniker": "C:\\Users\\test\\Desktop\\URLShortener\\Migrations\\20250811081429_initial migration.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250811081429_initial migration.cs",
-              "ToolTip": "C:\\Users\\test\\Desktop\\URLShortener\\Migrations\\20250811081429_initial migration.cs",
-              "RelativeToolTip": "Migrations\\20250811081429_initial migration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T08:14:30.395Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\test\\Desktop\\URLShortener\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\test\\Desktop\\URLShortener\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T08:10:07.826Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "URL.cs",
               "DocumentMoniker": "C:\\Users\\test\\Desktop\\URLShortener\\Models\\URL.cs",
               "RelativeDocumentMoniker": "Models\\URL.cs",
               "ToolTip": "C:\\Users\\test\\Desktop\\URLShortener\\Models\\URL.cs",
               "RelativeToolTip": "Models\\URL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-11T08:09:14.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\test\\Desktop\\URLShortener\\Views\\URLs\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\URLs\\Index.cshtml",
+              "ToolTip": "C:\\Users\\test\\Desktop\\URLShortener\\Views\\URLs\\Index.cshtml",
+              "RelativeToolTip": "Views\\URLs\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-12T09:04:17.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MaxLengths.cs",
+              "DocumentMoniker": "C:\\Users\\test\\Desktop\\URLShortener\\Constants\\MaxLengths.cs",
+              "RelativeDocumentMoniker": "Constants\\MaxLengths.cs",
+              "ToolTip": "C:\\Users\\test\\Desktop\\URLShortener\\Constants\\MaxLengths.cs",
+              "RelativeToolTip": "Constants\\MaxLengths.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T15:12:40.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\test\\Desktop\\URLShortener\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\test\\Desktop\\URLShortener\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABYAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-12T08:56:42.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\test\\Desktop\\URLShortener\\Views\\URLs\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\URLs\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\test\\Desktop\\URLShortener\\Views\\URLs\\Delete.cshtml",
+              "RelativeToolTip": "Views\\URLs\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-12T14:44:47.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\test\\Desktop\\URLShortener\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\test\\Desktop\\URLShortener\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-12T14:45:06.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\test\\Desktop\\URLShortener\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\test\\Desktop\\URLShortener\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T08:06:10.659Z",
               "EditorCaption": ""
             }
           ]

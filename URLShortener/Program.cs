@@ -26,13 +26,18 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
 	name: "default",
-	pattern: "{controller=Home}/{action=Index}/{id?}");
+	pattern: "{controller=URLs}/{action=Index}/{id?}");
 
 app.MapControllerRoute(
-	name: "redirect",
-	pattern: "{code}",
-	defaults: new { controller = "Home", action = "RedirectToOriginal" }
-);
+    name: "delete",
+    pattern: "{controller=URLs}/{action=Delete}/{id?}");
+
+//app.MapControllerRoute(
+//	name: "redirect",
+//	pattern: "{controller =URLs}/{ action=Index}/{ id ?}",
+
+//    defaults: new { controller = "URLs", action = "RedirectToOriginal" }
+//);
 
 app.MapDefaultControllerRoute();
 

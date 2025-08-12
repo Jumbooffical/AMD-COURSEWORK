@@ -1,34 +1,35 @@
-﻿@{
-    ViewData["Title"] = "Short URL";
-    var shortUrl = ViewData["ShortUrl"] as string;
-    var originalUrl = ViewData["OriginalUrl"] as string;
+﻿@model IEnumerable<URLShortener.Models.URL>
+
+@{
+	ViewData["Title"] = "URLShortener";
 }
 
 <div class="container mt-5">
-    <h1 class="display-4 text-center mb-4">Your Shortened URL</h1>
+	<h1 class="display-4 text-center mb-4">Your Shortened URLs</h1>
 
-    @if (!string.IsNullOrEmpty(shortUrl))
-    {
-        <div class="alert alert-success text-center">
-            <p>Original URL:</p>
-            <p><a href="@originalUrl" target="_blank">@originalUrl</a></p>
-
-            <hr />
-
-            <p>Shortened URL:</p>
-            <h3>
-                <a href="@shortUrl" target="_blank">@shortUrl</a>
-            </h3>
-        </div>
-    }
-    else
-    {
-        <div class="alert alert-warning text-center">
-            No shortened URL found.
-        </div>
-    }
-
-    <div class="text-center mt-4">
-        <a asp-controller="Home" asp-action="Index" class="btn btn-primary">Shorten another URL</a>
-    </div>
+	<!-- Bordered table showing a list of original URL and shortened url -->
+	<table class="table table-bordered">
+		<thead class="table-light">
+			<tr>
+				<th>Original URL</th>
+				<th>Shortened URL</th>
+			</tr>
+		</thead>
+		<tbody>
+			@foreach (var item in Model)
+			{
+				<tr>
+					<td>@item.OriginalUrl</td>
+					<td>@ViewBag.Host/@item.ShortCode</td>
+					<!-- Delete button with confirmation & anti forgery token (POST) -->
+					<td>
+						<form asp-action="Delete" asp-route-id="@item.Id" method="post" onsubmit="return confirm('Are you sure you want to delete \'@item.ShortCode\' (@item.OriginalUrl)?');">
+							@Html.AntiForgeryToken()
+							<button type="submit" class="btn btn-danger">Delete</button>
+						</form>
+					</td>
+				</tr>
+			}
+		</tbody>
+	</table>
 </div>

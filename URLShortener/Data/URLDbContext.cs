@@ -11,18 +11,6 @@ namespace URLShortener.Data
 		{
 		}
 
-        public DbSet<URL> URLs { get; set; }
-
-        // Optionally override OnModelCreating if you want to configure models via Fluent API
-        protected override void OnModelCreating(ModelBuilder modelBuilder)
-		{
-			base.OnModelCreating(modelBuilder);
-
-			// Example configuration
-			modelBuilder.Entity<URL>()
-				.Property(t => t.SourceURL)
-				.IsRequired()
-				.HasMaxLength(MaxLengths.SourceURL);
-		}
+		public DbSet<URL> URLs { get; set; }
 	}
 }

@@ -2,7 +2,6 @@
 {
 	public static class MaxLengths
 	{
-		public const int SourceURL = 150;
-		public const int DestinationURL = 50;
+		public const int OriginalURL = 2048;
 	}
 }
